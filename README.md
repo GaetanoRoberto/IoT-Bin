@@ -16,6 +16,6 @@ temperatura
  - Visualizzazione dei dati misurati
  - Allarme acustico in caso di pericolo incendio del bidone
 
-![20220514_101858](https://github.com/user-attachments/assets/9b6c4aeb-00c2-45c8-ac14-19d4195a204a)
-![20220514_101915](https://github.com/user-attachments/assets/3f8ca99a-fa4e-4fef-891a-1a01e7e415af)
-![20220514_101927](https://github.com/user-attachments/assets/cd071fa9-57c9-4f7c-9db0-b899c417b617)
+<img src="images/20220514_101858.jpg" alt="image1" width="200"/>
+<img src="images/20220514_101915.jpg" alt="image1" width="200"/>
+<img src="images/20220514_101927.jpg" alt="image1" width="200"/>
